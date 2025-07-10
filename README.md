@@ -37,12 +37,3 @@ To analyze airline performance data from the Bureau of Transportation Statistics
 
 Airline On-Time Performance (2003–2008) from Kaggle:
 🔗 [https://tinyurl.com/u8rzvdsx](https://tinyurl.com/u8rzvdsx)
-
-## 📄 Related Work
-
-Explore similar projects and methods here:
-🔗 [https://tinyurl.com/bdejna9e](https://tinyurl.com/bdejna9e)
-
----
-
-Let me know if you'd like a version with project folder structure or badges!
